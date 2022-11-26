@@ -1,8 +1,8 @@
-- name: "色"
+- name: "se"
   strings: 
     - ":se:"
   location: "assets/qq/se.gif"
-- name: "呲牙"
+- name: "cy"
   strings:
     - ":cy:"
   location: "assets/qq/cy.gif"
@@ -10,22 +10,25 @@
   strings:
     - ":dk:"
   location: "assets/qq/dk.gif"
-- name: "惊讶"
+- name: "jy"
   strings:
     - ":wow:"
   location: "assets/qq/jy.gif"
-- name: "拜拜"
+- name: "bye"
   strings:
     - "bye"
     - "88"
     - ":bye:"
   location: "assets/qq/bye.gif"
-- name: "强"
+- name: "nb"
   strings:
     - ":nb:"
   location: "assets/qq/nb.gif"
-- name: "谔谔"
+- name: "ee"
   strings:
     - ":ee:"
   location: "assets/qq/ee.gif"
-
+- name: "wq"
+  strings:
+    - ":555:"
+  location: "assets/qq/wq.gif"
