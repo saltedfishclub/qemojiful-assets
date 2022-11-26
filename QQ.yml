@@ -20,10 +20,6 @@
     - "88"
     - ":bye:"
   location: "assets/qq/bye.gif"
-- name: "委屈"
-  strings:
-    - ":555:"
-  location: "assets/qq/wq.gif"
 - name: "强"
   strings:
     - ":nb:"
