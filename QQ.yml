@@ -1,5 +1,43 @@
-- name: se
+- name: "色"
   strings: 
     - "\\se"
     - ":se:"
   location: "assets/qq/se.gif"
+- name: "呲牙"
+  strings:
+    - "\\cy"
+    - ":cy:"
+  location: "assets/qq/cy.gif"
+- name: "dk"
+  strings:
+    - "\\dk"
+    - ":dk:"
+  location: "assets/qq/dk.gif"
+- name: "惊讶"
+  strings:
+    - "\\jy"
+    - ":jy:"
+  location: "assets/qq/jy.gif"
+- name: "拜拜"
+  strings:
+    - "bye"
+    - "88"
+    - ":bye:"
+    - "\\bye"
+  location: "assets/qq/bye.gif"
+- name: "委屈"
+  strings:
+    - ":wq:"
+    - "\\wq"
+  location: "assets/qq/wq.gif"
+- name: "强"
+  strings:
+    - ":nb:"
+    - "\\nb"
+  location: "assets/qq/nb.gif"
+- name: "谔谔"
+  strings:
+    - ":ee:"
+    - "\\ee"
+  location: "assets/qq/ee.gif"
+
