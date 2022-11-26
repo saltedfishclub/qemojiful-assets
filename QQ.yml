@@ -12,7 +12,7 @@
   location: "assets/qq/dk.gif"
 - name: "惊讶"
   strings:
-    - ":jy:"
+    - ":wow:"
   location: "assets/qq/jy.gif"
 - name: "拜拜"
   strings:
