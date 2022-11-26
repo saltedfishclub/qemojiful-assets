@@ -22,7 +22,7 @@
   location: "assets/qq/bye.gif"
 - name: "委屈"
   strings:
-    - ":wq:"
+    - ":555:"
   location: "assets/qq/wq.gif"
 - name: "强"
   strings:
