@@ -1,0 +1,5 @@
+- name: se
+  strings: 
+    - "\se"
+    - ":se:"
+  location: "assets/qq/se.gif"
